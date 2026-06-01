@@ -1,6 +1,6 @@
 
 # Clinical AI Architecture Portfolio
-### Dr. [Kehkashan Masood] | MBBS | Johns Hopkins AI in Healthcare Certified
+### Dr.Kehkashan Masood | MBBS | Johns Hopkins AI in Healthcare Certified
 
 ---
 
@@ -14,7 +14,7 @@ validation frameworks.
 
 **Current Location:** Dubai, UAE  
 **Target Market:** Germany | European Health Tech  
-**LinkedIn:** [www.linkedin.com/in/kehkashan-masood]
+**LinkedIn:** www.linkedin.com/in/kehkashan-masood
 
 ---
 
@@ -49,7 +49,7 @@ risk using clinical and insurance variables
 ---
 
 ## Certifications
-- MBBS — [Baqai Medical University]
+- MBBS — Baqai Medical University
 - AI in Healthcare — Johns Hopkins University
 - CITI Program — Human Subjects Research (In Progress)
 
